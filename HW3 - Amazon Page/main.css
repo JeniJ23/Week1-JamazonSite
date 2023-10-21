@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+h3{
+    margin: 0%;
+    padding:0%;
+    display: flex;
+    align-content: left;
+    font-family:Geneva; sans-serif;
+}
+.text-input {
+    
+}
+
+body {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+form {
+    border: 1px solid black;
+    border-radius: 1.5%;
+    margin: 10v auto 0 auto ; 
+    padding: 2%;
+    max-width: 500px;
+    width: 40%: 
+    min-width:400px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  } 
+
+input button{
+    margin-bottom: 5%;
+}
+
+.text-input{
+    width: 95%;
+    padding: 2%;
+}
+textarea {
+    width: 95%;
+    padding: 2%;
+}
+button {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    background-color: orange;
+  }
+button : hover {
+
+}
+}
+}
